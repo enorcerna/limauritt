@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Roboto",
+    "type": "sans-serif",
+    "description": "Moderna, buena legibilidad, amigable para pantalla e impresión, muy versátil.",
+    "value": "Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+  },
+  {
+    "name": "Montserrat",
+    "type": "sans-serif",
+    "description": "Geométrica, moderna, confiable, ideal para un logotipo destacado.",
+    "value": "Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+  },
+  {
+    "name": "Oswald",
+    "type": "sans-serif",
+    "description": "Condensada, fuerte, compacta, adecuada para transmitir poder y eficiencia.",
+    "value": "Oswald:wght@200;300;400;500;600;700&display=swap"
+  },
+  {
+    "name": "Bebas Neue",
+    "type": "sans-serif",
+    "description": "Alta, delgada, fácil de leer, adecuada para aplicaciones de branding audaces.",
+    "value": "Bebas+Neue&display=swap"
+  },
+  {
+    "name": "Lato",
+    "type": "sans-serif",
+    "description": "Moderna, versátil, excelente legibilidad, ideal para diversas aplicaciones.",
+    "value": "Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+  },
+  {
+    "name": "Raleway",
+    "type": "sans-serif",
+    "description": "Elegante, geométrica, perfecta para una imagen profesional y moderna.",
+    "value": "Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+  },
+  {
+    "name": "Poppins",
+    "type": "sans-serif",
+    "description": "Geométrica, moderna, clara, ideal para una empresa contemporánea.",
+    "value": "Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+  },
+  {
+    "name": "Ubuntu",
+    "type": "sans-serif",
+    "description": "Moderna, amigable, legible, adecuada para una imagen accesible y confiable.",
+    "value": "Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+  },
+  {
+    "name": "Noto Sans",
+    "type": "sans-serif",
+    "description": "Universal, clara, legible, excelente para una empresa con alcance global.",
+    "value": "Noto+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+  },
+  {
+    "name": "Mukta",
+    "type": "sans-serif",
+    "description": "Versátil, moderna, clara, ideal para aplicaciones diversas.",
+    "value": "Mukta:wght@200;300;400;500;600;700;800&display=swap"
+  },
+  {
+    "name": "PT Sans",
+    "type": "sans-serif",
+    "description": "Clara, moderna, profesional, adecuada para textos legibles y aplicaciones corporativas.",
+    "value": "PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+  },
+  {
+    "name": "Work Sans",
+    "type": "sans-serif",
+    "description": "Moderna, profesional, excelente para branding y legibilidad en pantalla.",
+    "value": "Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+  },
+  {
+    "name": "Titillium Web",
+    "type": "sans-serif",
+    "description": "Moderna, clara, estilizada, ideal para un aspecto contemporáneo y tecnológico.",
+    "value": "Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap"
+  },
+  {
+    "name": "Heebo",
+    "type": "sans-serif",
+    "description": "Moderna, elegante, clara, adecuada para aplicaciones profesionales y legibles.",
+    "value": "Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap"
+  },
+  {
+    "name": "Nunito",
+    "type": "sans-serif",
+    "description": "Redondeada, amigable, moderna, perfecta para una imagen accesible y confiable.",
+    "value": "Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+  }
+]
