@@ -8,8 +8,8 @@
 		}
 	});
 	$: selectColor.subscribe((c) => {
-		if (c.blue !== '') {
-			span.style.color = c.blue;
+		if (c.blue !== '' && span) {
+			span.style.color = c.blue ?? '';
 		}
 	});
 	$: selectSpaceLetter.subscribe((v) => {

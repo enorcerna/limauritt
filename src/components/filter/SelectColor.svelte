@@ -5,10 +5,11 @@
 	import type { IroColorPicker } from '@jaames/iro/dist/ColorPicker';
 	import { onMount } from 'svelte';
 	import PaletteCombine from '@/components/page/PaletteCombine.svelte';
+	import { colors } from '@/utils/config';
 	let colorPickerOne: IroColorPicker;
 	let colorPickerTwo: IroColorPicker;
-	let blue = 'blue';
-	let green = 'green';
+	let blue = colors.blue;
+	let green = colors.green;
 	onMount(() => {
 		colorPickerOne = new iro.ColorPicker('#pickerOne', { width: 200, color: '#f00' });
 		colorPickerOne.on('color:change', (c: { hexString: string }) => {
