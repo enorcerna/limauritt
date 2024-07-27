@@ -7,8 +7,8 @@
 	import PaletteCombine from '@/components/page/PaletteCombine.svelte';
 	let colorPickerOne: IroColorPicker;
 	let colorPickerTwo: IroColorPicker;
-	let blue = '';
-	let green = '';
+	let blue = 'blue';
+	let green = 'green';
 	onMount(() => {
 		colorPickerOne = new iro.ColorPicker('#pickerOne', { width: 200, color: '#f00' });
 		colorPickerOne.on('color:change', (c: { hexString: string }) => {
